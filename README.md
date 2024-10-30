@@ -4,7 +4,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Iot</b>
-  - [Smart Gardening System with Plant disease detection using Deep Learning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Smart Gardening System with plant disease detection using Deep Learning](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Security</b>
   - [Implementation and Evaluation of a Security Module for RPL Routing in IoT](https://github.com/joshmadakor1/Algorithms-Practice)
