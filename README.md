@@ -17,6 +17,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Fella AZOUZA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fella AZOUZA | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/fella-azouza-3b720b24b/
+[email]: mailto:f.azouza@esi-sba.dz
+
+
 
