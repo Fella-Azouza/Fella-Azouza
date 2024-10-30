@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Fella!</h1>
+<h3>Final Year Computer Science Student at @Esi-SBA, Frontend Developer, AI and Network Engineering enthusiast</h3>
 
-<!--
-**Fella-Azouza/Fella-Azouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 My Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Iot</b>
+  - [Smart Gardening System with Plant disease detection using Deep Learning](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>Security</b>
+  - [Implementation and Evaluation of a Security Module for RPL Routing in IoT](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Frontend Development</b>
+  - [ALL IN ONE](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DZ Trash Free](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Fella AZOUZA | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/fella-azouza-3b720b24b/
+
