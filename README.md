@@ -7,7 +7,7 @@
   - [Smart Gardening System with plant disease detection using Deep Learning](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Security</b>
-  - [Implementation and Evaluation of a Security Module for RPL Routing in IoT](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementation and Evaluation of a Security Module for RPL Routing in IoT](https://github.com/Fella-Azouza/RPL-Security-IoT)
 
 - <b>Frontend Development</b>
   - [ALL IN ONE](https://github.com/joshmadakor1/Algorithms-Practice)
