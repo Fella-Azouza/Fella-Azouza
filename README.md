@@ -11,7 +11,7 @@
 
 - <b>Frontend Development</b>
   - [ALL IN ONE](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [DZ Trash Free](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DZ Trash Free](https://github.com/Fella-Azouza/DzTrashFree)
     
 
 <h2> 🤳 Connect with me:</h2>
