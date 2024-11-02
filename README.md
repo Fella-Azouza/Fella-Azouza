@@ -12,7 +12,7 @@
   - [Implementation and Evaluation of a Security Module for RPL Routing in IoT](https://github.com/Fella-Azouza/RPL-Security-IoT)
 
 - <b>Frontend Development</b>
-  - [ALL IN ONE](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ALL IN ONE](https://github.com/Fella-Azouza/All-In-One)
   - [DZ Trash Free](https://github.com/Fella-Azouza/DzTrashFree)
     
 
