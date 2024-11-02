@@ -4,7 +4,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Iot</b>
-  - [IoT Based Smart Gardening System with plant disease recognition based on CNN](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IoT Based Smart Gardening System with plant disease recognition based on CNN](https://github.com/Fella-Azouza/IoT-Based-Smart-Gardening-System)
     
 - <b>Security</b>
   - [Implementation and Evaluation of a Security Module for RPL Routing in IoT](https://github.com/Fella-Azouza/RPL-Security-IoT)
