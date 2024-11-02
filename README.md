@@ -1,7 +1,7 @@
 <h1>Hi, I'm Fella!</h1>
 <h3>Final Year Computer Science Student at @Esi-SBA, Frontend Developer, AI and Network Engineering enthusiast</h3>
 
-- 📫 How to reach me **f.azouza@esi-sba.dz**
+- 📫 How to reach me : **f.azouza@esi-sba.dz**
 
 <h2>👨‍💻 My Projects:</h2>
 
