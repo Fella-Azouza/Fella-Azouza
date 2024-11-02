@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Iot</b>
+- <b>IoT</b>
   - [IoT Based Smart Gardening System with plant disease recognition based on CNN](https://github.com/Fella-Azouza/IoT-Based-Smart-Gardening-System)
     
 - <b>Security</b>
