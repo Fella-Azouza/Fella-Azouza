@@ -1,6 +1,11 @@
 <h1>Hi, I'm Fella!</h1>
 <h3>Final Year Computer Science Student at @ESI-SBA, Frontend Developer, AI and Network Engineering enthusiast</h3>
 
+
+- 🔭 I’m currently working on **Solving TSP (Traveling Salesman Person) problem using genetic algorithms (58-states In Algeria territory)**
+
+- 🌱 I’m currently learning **CCNA**
+  
 - 📫 How to reach me : **f.azouza@esi-sba.dz**
 
 <h2>👨‍💻 My Projects:</h2>
