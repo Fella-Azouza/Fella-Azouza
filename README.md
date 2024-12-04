@@ -2,7 +2,8 @@
 <h3>Final Year Computer Science Student at @ESI-SBA, Frontend Developer, AI and Network Engineering enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Solving TSP (Traveling Salesman Person) problem using genetic algorithms (58-states In Algeria territory)**
+- 🔭 I’m currently working on **Early Detection of Alzheimer's Disease using LSTM and CNN** and **Diabetes Prediction Using Machine Learning**
+**
 
 - 🌱 I’m currently learning **CCNA**
   
