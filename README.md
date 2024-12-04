@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on **Early Detection of Alzheimer's Disease using LSTM and CNN** and **Diabetes Prediction Using Machine Learning**
-**
-
+  
 - 🌱 I’m currently learning **CCNA**
   
 - 📫 How to reach me : **f.azouza@esi-sba.dz**
