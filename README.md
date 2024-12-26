@@ -11,7 +11,9 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Diabetes Prediction using Machine Learning](https://github.com/Fella-Azouza/Diabtetes_Prediction_ML)
+  - [Breast Cancer Classificatin App using ML](https://github.com/Fella-Azouza/Breast-Cancer-Prediction-using-ML)
+  - [Diabetes Prediction using Machine Learning](https://github.com/Fella-Azouza/Diabtetes_Prediction_ML) 
+  
 
 - <b>IoT</b>
   - [IoT Based Smart Gardening System with plant disease recognition based on CNN](https://github.com/Fella-Azouza/IoT-Based-Smart-Gardening-System)
