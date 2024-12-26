@@ -2,7 +2,7 @@
 <h3>Final Year Computer Science Student at @ESI-SBA, Frontend Developer, AI and Network Engineering enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Brain Tumor Detection using Deep Learning** and 
+- 🔭 I’m currently working on **Brain Tumor Detection using Deep Learning** 
   
 - 🌱 I’m currently learning **CCNA**
   
