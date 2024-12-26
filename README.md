@@ -11,7 +11,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Breast Cancer Classificatin App using ML](https://github.com/Fella-Azouza/Breast-Cancer-Prediction-using-ML)
+  - [Breast Cancer Classification App using ML](https://github.com/Fella-Azouza/Breast-Cancer-Prediction-using-ML)
   - [Diabetes Prediction using Machine Learning](https://github.com/Fella-Azouza/Diabtetes_Prediction_ML) 
   
 
